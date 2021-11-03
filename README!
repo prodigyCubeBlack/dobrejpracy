@@ -1,0 +1,7 @@
+#READM ME#
+#AVE NEONET!#
+
+motyw jest taki, żeby niezauważonym(delay, zmiany ip, udawanie real usera, every single trick possible, pobierać ogłoszenia z olxa (o pracę) przy pomocy BeautifulSoup i analizować offline(?) za pomocą pythona + graficzny interfejs od react nativa. 
+
+na razie udało mi się wyekstrahować tekst z ogłoszeń offline trzymanych na dysku(testowe html)
+
